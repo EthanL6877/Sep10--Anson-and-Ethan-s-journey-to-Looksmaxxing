@@ -1,4 +1,4 @@
-# Start nose breathing while doing jumping jacks on the way to school
+# Brush teeth and Start nose breathing while doing jumping jacks on the way to school
 
 [Notice someone watching](max4.md)
 

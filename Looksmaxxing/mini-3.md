@@ -4,6 +4,6 @@
 
 What do you do now?
 
-1) [be nonchalant and  a millionaire playboy at the school corner while doing ab workouts you found from Jeff Nippard](max2.md)
+1) [be nonchalant and  a millionaire playboy at the school corner while doing ab workouts you found from Jeff Nippard](max5.md)
 
 2) [start looking at peoples shoes and say "BOIIIIII WHAT ARE DOSSSS"](mini-4.md)

@@ -4,6 +4,6 @@
 
 What do you do now?
 
-1) [GO BRUSH YOUR TEETH. please?](max-3.md)
+1) [GO BRUSH YOUR TEETH. please?](max.md)
 
 2) [try to shoot your shot again and impress the girls!](mini-3.md)
