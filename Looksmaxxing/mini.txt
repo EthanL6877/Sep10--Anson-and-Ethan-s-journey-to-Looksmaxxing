@@ -1,7 +1,0 @@
-# You forgot to brush your teeth which made your breath very stinky (+5 cortisol)
-
-What do you do now?
-
-1) [Go talk to the ladies](mini-2.txt)
-
-2) [Go to the bathroom and brush your teeth]()
