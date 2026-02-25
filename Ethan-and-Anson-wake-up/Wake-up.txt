@@ -2,4 +2,4 @@
 
 [Get out of bed]()
 
-[Go to school]()
+[Go to school](lookminimizing.md)
