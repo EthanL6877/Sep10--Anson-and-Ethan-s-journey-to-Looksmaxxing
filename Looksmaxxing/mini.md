@@ -6,4 +6,4 @@ What do you do now?
 
 1) [Go talk to the ladies](mini-2.md)
 
-2) [Go to the bathroom and brush your teeth with your finger](max-2.md)
+2) [Go to the bathroom and brush your teeth with your finger](max2.md)
