@@ -2,4 +2,4 @@
 
 [Get out of bed](mini.md)
 
-[Go to school](Max.md)
+[Go to school](max.md)
